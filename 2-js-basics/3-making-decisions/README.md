@@ -209,6 +209,8 @@ Create a program that is written first with logical operators, and then rewrite 
 
 [Post-lecture quiz](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/12)
 
+*link doesn't work
+
 ## Review & Self Study
 
 Read more about the many operators available to the user [on MDN](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators).
