@@ -120,6 +120,8 @@ console.log(`The value is ${a}`);
 
 ✅ Test your understanding of this code and the following code by running it in a browser console. Change the values of the variable a to change the returned `console.log()`.
 
+done
+
 ## Logical Operators and Booleans
 
 Decisions might require more than one comparison, and can be strung together with logical operators to produce a Boolean value.
