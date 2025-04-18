@@ -30,7 +30,9 @@ let allStudents = [
   2
 ]
 
-let studentsWhoPass = [];
+let studentsWhoPass = [
+  for
+];
 ```
 
 ## Rubric
